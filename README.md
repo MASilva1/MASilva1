@@ -13,7 +13,7 @@ Soy **Jefe del Área Administrativa del Instituto de Informática de la Universi
 
 ## 🚀 Proyectos destacados
 
-### 🗓️ [Sala 13 — Sistema web de reservas institucionales](https://github.com/MASilva1/mi-primer-proyecto/tree/main/sala13-reservas-inteligentes)
+### 🗓️ [Sala 13 — Sistema web de reservas institucionales](https://github.com/MASilva1/sala13-booking-system)
 
 **Google Apps Script · JavaScript · HTML/CSS · Google Calendar · Google Sheets**
 
@@ -23,7 +23,7 @@ Detecté un problema recurrente en la coordinación de una sala compartida: cons
 - **Resultado reportado:** reducción *estimada* cercana al **80 % del tiempo administrativo dedicado a coordinar reservas** durante los primeros meses de uso. No es una métrica auditada.
 - **Evidencia:** caso de negocio, arquitectura y código fuente publicado.
 
-[📂 Ver proyecto y documentación](https://github.com/MASilva1/mi-primer-proyecto/tree/main/sala13-reservas-inteligentes) · [🌐 Ver aplicación institucional](https://tinyurl.com/sala13idei)
+[📂 Ver proyecto y documentación](https://github.com/MASilva1/sala13-booking-system) · [🌐 Ver aplicación institucional](https://tinyurl.com/sala13idei)
 
 ### 🤖 [Gestión inteligente de solicitudes administrativas — SmartDesk AI](https://github.com/MASilva1/mi-primer-proyecto/tree/main/portfolio/idei-gestion-solicitudes-ia)
 
