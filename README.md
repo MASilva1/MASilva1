@@ -25,7 +25,7 @@ Detecté un problema recurrente en la coordinación de una sala compartida: cons
 
 [📂 Ver proyecto y documentación](https://github.com/MASilva1/sala13-booking-system) · [🌐 Ver aplicación institucional](https://tinyurl.com/sala13idei)
 
-### 🤖 [Gestión inteligente de solicitudes administrativas — SmartDesk AI](https://github.com/MASilva1/mi-primer-proyecto/tree/main/portfolio/idei-gestion-solicitudes-ia)
+### 🤖 [Gestión inteligente de solicitudes administrativas — SmartDesk AI](https://github.com/MASilva1/smartdesk-ai-automation)
 
 **n8n · OpenAI · Gmail · Airtable · Notion · Slack · HITL**
 
@@ -35,7 +35,7 @@ Prototipo académico basado en un caso de gestión administrativa: integra recep
 - **Evidencia:** workflow exportado y sanitizado, documentación, casos de prueba y video demostrativo.
 - **Principio:** automatizar lo repetitivo sin quitar el control de las decisiones sensibles a las personas.
 
-[📂 Ver caso técnico](https://github.com/MASilva1/mi-primer-proyecto/tree/main/portfolio/idei-gestion-solicitudes-ia) · [▶️ Ver demostración](https://youtu.be/qwjR3EYyDpg)
+[📂 Ver caso técnico](https://github.com/MASilva1/smartdesk-ai-automation) · [▶️ Ver demostración](https://youtu.be/qwjR3EYyDpg)
 
 ### 🔄 [IdeI SmartDesk AI — prácticas de arquitectura de agentes](https://github.com/MASilva1/mi-primer-proyecto/tree/main/curso-ia-avanzado)
 
