@@ -7,7 +7,7 @@ Soy **Jefe del Área Administrativa del Instituto de Informática de la Universi
 **Me interesan oportunidades remotas** en automatización de procesos, operaciones digitales, IA aplicada y análisis de datos.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matysilv/)
-[![GitHub](https://img.shields.io/badge/Portfolio-Proyectos-181717?logo=github&logoColor=white)](https://github.com/MASilva1/mi-primer-proyecto)
+[![GitHub](https://img.shields.io/badge/Portfolio-Proyectos-181717?logo=github&logoColor=white)](https://github.com/MASilva1/sala13-booking-system)
 
 ---
 
