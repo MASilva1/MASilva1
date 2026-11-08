@@ -1,10 +1,14 @@
 # ¡Hola! Soy Matías Andrés Silva 👋
 
-### Administración + automatización + IA aplicada a problemas reales
+### Gestión administrativa y operaciones | Automatización de procesos con IA
 
-Soy **Jefe del Área Administrativa del Instituto de Informática de la Universidad Nacional de San Juan (Argentina)**. Combino experiencia en gestión, análisis de procesos y desarrollo de soluciones digitales para reducir tareas repetitivas, mejorar la trazabilidad y simplificar el trabajo cotidiano.
+Cuento con **más de 10 años de experiencia en gestión administrativa universitaria**. Soy **Jefe del Área Administrativa del Instituto de Informática de la Universidad Nacional de San Juan (Argentina)**. Combino experiencia en gestión, análisis de procesos y desarrollo de soluciones digitales para reducir tareas repetitivas, mejorar la trazabilidad y simplificar el trabajo cotidiano.
 
-**Me interesan oportunidades remotas** en automatización de procesos, operaciones digitales, IA aplicada y análisis de datos.
+Mi trayectoria incluye **compras y contrataciones, tareas contables, gestión documental y admisiones**, con SIU Diaguita, SIU Pilagá y SIU Guaraní. Mi experiencia laboral en hotelería en Suiza fortaleció la atención al cliente y el trabajo en equipos multiculturales.
+
+**Me interesan oportunidades remotas** en administración, operaciones y atención al cliente, con un aporte diferencial en automatización y mejora de procesos. Desarrollo mi formación en análisis de datos.
+
+**LinkedIn reúne mi trayectoria profesional; este GitHub presenta los proyectos, el código y la documentación que respaldan mi trabajo.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matysilv/)
 [![GitHub](https://img.shields.io/badge/Portfolio-Proyectos-181717?logo=github&logoColor=white)](https://github.com/MASilva1/sala13-booking-system)
@@ -56,6 +60,8 @@ Progresión de ejercicios en n8n sobre **Manager–Worker, memoria contextual, i
 | **Datos (formación)** | Python, SQL, notebooks, análisis exploratorio y fundamentos de ML |
 
 ## 📚 Aprendizaje continuo
+
+- **Licenciatura en Gestión y Análisis de Datos — Universidad Nacional de San Luis (UNSL).** En curso desde 2026.
 
 - [Python y Data Science — Alura](https://github.com/MASilva1/Data_Science_Alura)
 - [Data Science y MLOps — Escuela de Datos Vivos](https://github.com/MASilva1/EDVAI_DS_MLOps_Bootcamp)
